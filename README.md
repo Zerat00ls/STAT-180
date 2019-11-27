@@ -3,4 +3,4 @@ GitHub_Project
 
 ## This is an Equation Calculator Project
 
-* Final project is making a graphing calculator.
+* Final goal is making a graphing calculator.
